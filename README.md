@@ -1,6 +1,8 @@
 # MyoCaduceus
 ![](https://raw.githubusercontent.com/LiptonItTea/MyoCaduceus/refs/heads/main/logo.png)
 
+![](https://raw.githubusercontent.com/LiptonItTea/MyoCaduceus/refs/heads/main/preview.png)
+
 Этот шаблон нужен для существенного упрощения вам жизни (не надо разбираться с софтовым ужасом, это сделано за вас).
 
 Все, что нужно сделать - обработку сигнала (если бы я и это оставил, было бы совсем просто =\\ )
