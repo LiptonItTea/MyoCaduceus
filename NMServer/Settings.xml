@@ -1,0 +1,7 @@
+<Settings>
+  <NetManager>
+    <Server>
+      <Network Port="8000" LiveTime="3000" />
+    </Server>
+  </NetManager>
+</Settings>
